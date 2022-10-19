@@ -11,4 +11,4 @@ Camper Cat happens to be both a coding ninja and an actual ninja, who is buildin
 */
 
 
-<img src="doingKarateWow.jpeg" alt="Camper Cat">
+<img src="doingKarateWow.jpeg" alt="Camper Cat"></img>
